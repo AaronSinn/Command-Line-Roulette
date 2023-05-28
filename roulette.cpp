@@ -2,7 +2,8 @@
 #include <algorithm>
 #include <cctype>
 #include <unordered_map> 
-#include <random>      
+#include <random>   
+#include <vector>  
 
 
 void printRules();
